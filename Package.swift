@@ -2,9 +2,9 @@
 
 import PackageDescription
 
-let frameworks = ["ThreeDSSDK": "2c853b0f3554089d758076ae9cebdee4575039ecc4a43fb295e37d092abb65f5",
-                  "CardKit": "149abe1773c085be8b0c4dbe631005f926937a1f508c143868918e7c1e5b7e2a",
-                  "CardKitCore": "7426fa6c2c9db4a0dd11a0aaeca08a7f542de33b6f2a63685fd933f1edce8b07"]
+let frameworks = ["ThreeDSSDK": "203f17f02c285b3d3e88278a55e4138c2410a126dc692fa910e870480afd9af4",
+                  "CardKit": "c8643189e76009bc13b94196fb02d70bffe77d557423bfa799ebb7fabf5dbada",
+                  "CardKitCore": "5c45aeab5d23b060b82ed87a13ccaec7c20145b61305a2676dd422e8d3bbb437"]
 
 let package = Package(
     name: "CardKitSDK",
