@@ -25,7 +25,7 @@ or via [XcodeGen](https://github.com/yonaskolb/XcodeGen) insert into your `proje
 name: YourProjectName
 options:
   deploymentTarget:
-    iOS: 13.0
+    iOS: 10.0
 packages:
   CardKit:
     url: https://github.com/c-villain/CardKit
